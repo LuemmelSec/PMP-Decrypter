@@ -29,3 +29,10 @@ If not found, you still have the option to specify them manually.
 # Build
 I used Visual Studio 2017, .Net Framework 4 and release mode.  
 If you dare, you can use the precompiled version.
+
+# Countermeasures
+
+Honestly speaking: If a company which wants to connect to such critical assets takes security like this, I would not recommend using this at all.  
+You could restrict access to the reg keys, so that not everyone is able to read them.
+
+If you operate it, where ever possible use low privileged, dedicated accounts. Sending mails with your DA account is not the best idea you might have.  
