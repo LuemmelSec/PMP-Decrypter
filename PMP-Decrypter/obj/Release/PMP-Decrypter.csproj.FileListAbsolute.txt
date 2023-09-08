@@ -1,0 +1,12 @@
+C:\Users\Daniel\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\PMP-Decrypter.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\PMP-Decrypter.exe
+C:\Users\Daniel\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\PMP-Decrypter.pdb
+C:\Users\Daniel\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\PMP-Decrypter.exe
+C:\Users\Daniel\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\PMP-Decrypter.pdb
+C:\Users\Daniel\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\PMP-Decrypter.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\ConsoleApp2\PMP-Decrypter\bin\Release\PMP-Decrypter.exe
+C:\Users\Daniel\source\repos\ConsoleApp2\PMP-Decrypter\bin\Release\PMP-Decrypter.pdb
+C:\Users\Daniel\source\repos\ConsoleApp2\PMP-Decrypter\obj\Release\PMP-Decrypter.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\ConsoleApp2\PMP-Decrypter\obj\Release\PMP-Decrypter.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\ConsoleApp2\PMP-Decrypter\obj\Release\PMP-Decrypter.exe
+C:\Users\Daniel\source\repos\ConsoleApp2\PMP-Decrypter\obj\Release\PMP-Decrypter.pdb

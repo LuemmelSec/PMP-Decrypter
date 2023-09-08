@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMP-Decrypter", "PMP-Decrypter\PMP-Decrypter.csproj", "{FF9D22A2-0A0C-4108-BB0A-AA3415C3DE64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF9D22A2-0A0C-4108-BB0A-AA3415C3DE64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9D22A2-0A0C-4108-BB0A-AA3415C3DE64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9D22A2-0A0C-4108-BB0A-AA3415C3DE64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9D22A2-0A0C-4108-BB0A-AA3415C3DE64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3433A0D0-3A44-4807-9697-7F59C202EA4C}
+	EndGlobalSection
+EndGlobal
