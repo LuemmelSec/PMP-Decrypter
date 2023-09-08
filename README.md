@@ -21,3 +21,7 @@ If not found, you still have the option to specify them manually.
 ``PMP-Decrypter.exe <encryptedText> [privateKey] [saltKey] [ivKey]``  
 
 ![image](https://github.com/LuemmelSec/PMP-Decrypter/assets/58529760/e9bcb1f2-168c-4507-8d05-38a78159bd8e)
+
+# Build
+I used Visual Studi 2017, .Net Framework 4 and release mode.  
+If you dare, you can use the precompiled version.
