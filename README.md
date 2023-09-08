@@ -1,6 +1,6 @@
 # PMP-Decrypter
 
-This is a tool to decrypt the encrypted password strings in Patch My PC settings.xml files.  
+This is a tool to decrypt the encrypted password strings in [Patch My PC](https://patchmypc.com) settings.xml files.  
 In my case it was the SMTP password, but as there is only one encryption and decryption function in the tool, it should work for all of them.  
 Patch My PC saves the values for the crypto functions in registry keys under:  
 ``HKLM\Software\Patch My PC Publishing Service``  
