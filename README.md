@@ -10,7 +10,7 @@ Patch My PC saves the values for the crypto functions in registry keys under:
 
 ![image](https://github.com/LuemmelSec/PMP-Decrypter/assets/58529760/641e3174-96dd-4696-aaad-daff5fc1c25c)
 
-I honestly dunno if this is also true for the latest latest latest version, by the one i stumbled upon seems to be from 04/2023 so pretty new.
+I honestly dunno if this is also true for the latest latest latest version, but the one I stumbled upon seems to be from 04/2023 so pretty new.
 
 The ACLs on those keys are lax, so can be read by everyone.
 
